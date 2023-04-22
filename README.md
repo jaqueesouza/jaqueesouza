@@ -1,16 +1,24 @@
-### Hi there 👋
+<br>
+<img align="right" height="180" alt="danagif" src="https://i.pinimg.com/564x/65/a5/62/65a5629b7607c1924fab8315c52fc776.jpg">
+</br>
 
-<!--
-**jaqueesouza/jaqueesouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Oiee devs, aqui quem fala é a Jaque 🌙
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Stats
+  
+  <div>    
+    <a href="https://github.com/jaqueesouza">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jaqueesouza&theme=dark&show_icons=true&count_private=true&icon_color=682632&title_color=bea79d"/>
+    </a>
+  </div>
+  
+### Estudo
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Dana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Dana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
