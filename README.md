@@ -1,8 +1,10 @@
+<H1>
+# Oiee devs, aqui quem fala é a Jaque 🌙
+</1>
+
 <br>
 <img align="right" height="180" alt="danagif" src="https://i.pinimg.com/564x/65/a5/62/65a5629b7607c1924fab8315c52fc776.jpg">
 </br>
-# Oiee devs, aqui quem fala é a Jaque 🌙
-
 
 ### Stats
   
@@ -22,8 +24,3 @@
 </div>
 
 <div>
-
-### Commits:
-  
-  ![Snake animation](https://github.com/rpdana/rpdana/blob/output/github-contribution-grid-snake.svg)
-</div>
