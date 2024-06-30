@@ -3,7 +3,7 @@
 </1>
 
 <br>
-<img align="right" height="180" alt="danagif" src="e3adc0965ff546703b93b9e55b118de8.gif">
+<img align="right" height="180" alt="danagif" src="[e3adc0965ff546703b93b9e55b118de8.gif](https://discord.com/channels/@me/957876104713109555/1257004183341764760)">
 </br>
 
 ### Stats
