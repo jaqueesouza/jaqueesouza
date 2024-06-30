@@ -1,10 +1,9 @@
-<H1>
-# Oiee devs, aqui quem fala é a Jaque 🌙
- <H3>
+## Oiee devs, aqui quem fala é a Jaque 🌙
+
   - ⚔️ Explore meus projetos e testemunhe meu desenvolvimento relacionados à segurança cibernética.
   - 🤎 Fique a vontade para comentar meus post e trazer novos feedbacks.
   - 💻 Sou Formada em Biblioteconomia & prestes a iniciar minha pós em cyber
-  </H3>  
+ 
 </1>
 
 <br>
