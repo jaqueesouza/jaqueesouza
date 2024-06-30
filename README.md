@@ -3,7 +3,7 @@
 </1>
 
 <br>
-<img align="right" height="180" alt="danagif" src="https://i.pinimg.com/564x/65/a5/62/65a5629b7607c1924fab8315c52fc776.jpg">
+<img align="right" height="180" alt="danagif" src="e3adc0965ff546703b93b9e55b118de8.gif">
 </br>
 
 ### Stats
